@@ -1,0 +1,9 @@
+F:\Battle_City_2.0\Battle_City_2.0\bin\Debug\Battle_City_2.0.exe.config
+F:\Battle_City_2.0\Battle_City_2.0\bin\Debug\Battle_City_2.0.exe
+F:\Battle_City_2.0\Battle_City_2.0\bin\Debug\Battle_City_2.0.pdb
+F:\Battle_City_2.0\Battle_City_2.0\obj\Debug\Battle_City_2.0.csprojAssemblyReference.cache
+F:\Battle_City_2.0\Battle_City_2.0\obj\Debug\Battle_City_2._0.Form1.resources
+F:\Battle_City_2.0\Battle_City_2.0\obj\Debug\Battle_City_2._0.Properties.Resources.resources
+F:\Battle_City_2.0\Battle_City_2.0\obj\Debug\Battle_City_2.0.csproj.GenerateResource.cache
+F:\Battle_City_2.0\Battle_City_2.0\obj\Debug\Battle_City_2.0.exe
+F:\Battle_City_2.0\Battle_City_2.0\obj\Debug\Battle_City_2.0.pdb
