@@ -1,0 +1,10 @@
+F:\Main project of the game Battle City\Main project of the game Battle City\bin\Debug\Main project of the game Battle City.exe.config
+F:\Main project of the game Battle City\Main project of the game Battle City\bin\Debug\Main project of the game Battle City.exe
+F:\Main project of the game Battle City\Main project of the game Battle City\bin\Debug\Main project of the game Battle City.pdb
+F:\Main project of the game Battle City\Main project of the game Battle City\obj\Debug\Main project of the game Battle City.csprojAssemblyReference.cache
+F:\Main project of the game Battle City\Main project of the game Battle City\obj\Debug\Main_project_of_the_game_Battle_City.Properties.Resources.resources
+F:\Main project of the game Battle City\Main project of the game Battle City\obj\Debug\Main project of the game Battle City.csproj.GenerateResource.cache
+F:\Main project of the game Battle City\Main project of the game Battle City\obj\Debug\Main project of the game Battle City.csproj.CoreCompileInputs.cache
+F:\Main project of the game Battle City\Main project of the game Battle City\obj\Debug\Main project of the game Battle City.exe
+F:\Main project of the game Battle City\Main project of the game Battle City\obj\Debug\Main project of the game Battle City.pdb
+F:\Main project of the game Battle City\Main project of the game Battle City\obj\Debug\Main_project_of_the_game_Battle_City.MainWindow.resources
